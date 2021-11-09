@@ -1,5 +1,7 @@
 # MachaineLearining
 
+<link rel="shortcut icon" type="image/x-icon" href="icon.jpg">
+
 This is all for the course python语言与机器学习 , including homework(main), courseware, and tutorial.
 
 The scores are like below:
